@@ -3,3 +3,7 @@ One class for sending and receiving SMS messages via SMSified.  It does not curr
 USAGE:
  - See example_send.php for an example of how to use this class for sending SMS messages.
  - See example_receive.php for an example of how to use this class for receiving SMS messages.
+ 
+ NOTE:
+  - If you use multiple phone numbers for sending SMS messages, you can switch numbers by using the following:
+    $SMSified->ChangeSMSifiedNumber('NEW_PHONE_NUMBER');
