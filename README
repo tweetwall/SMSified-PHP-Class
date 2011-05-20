@@ -1,0 +1,5 @@
+One class for sending and receiving SMS messages via SMSified.  It does not currently support some of the more advanced functionality, just sending and receiving.
+
+USAGE:
+ - See example_send.php for an example of how to use this class for sending SMS messages.
+ - See example_receive.php for an example of how to use this class for receiving SMS messages.
